@@ -1,4 +1,4 @@
-import config as cfg
+import .config as cfg
 
 
 import numpy as np # linear algebra

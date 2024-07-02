@@ -1,7 +1,7 @@
-import config as cfg 
+import .config as cfg 
 
-from ner import NERModel
-from sentiment import SentimentModel
+from .ner import NERModel
+from .sentiment import SentimentModel
 
 class Inference: 
     def __init__(self): 
