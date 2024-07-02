@@ -1,1 +1,1 @@
-from main import Inference
+from .main import Inference
