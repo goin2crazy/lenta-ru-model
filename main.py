@@ -1,4 +1,4 @@
-import .config as cfg 
+from . import config as cfg 
 
 from .ner import NERModel
 from .sentiment import SentimentModel
