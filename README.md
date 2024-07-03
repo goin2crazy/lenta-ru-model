@@ -92,11 +92,18 @@ Hardware:
 ## DataCollention: 
 
 [все модели загруженны на HuggingFace]
+
+
 Pretrained NER model: "Davlan/distilbert-base-multilingual-cased-ner-hrl"
+
+
 Pretrained SST model: "cointegrated/rubert-tiny-sentiment-balanced" 
 
 ## Inference: 
 
 [все модели загруженны на HuggingFace]
+
 Pretrained NER model: "Davlan/distilbert-base-multilingual-cased-ner-hrl"
+
+
 SST model (custom trained): "doublecringe123/lenta-ru-sentiments"
