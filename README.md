@@ -87,23 +87,18 @@ Hardware:
 
 # 
 
-Для этого проекта пал на легкие быстрые модели, в связи с достаточно коротким временем выделенным на выполнение задания, вначале использовались уже преобученые модели. 
+Выбор для этого проекта пал на легкие быстрые модели, в связи с достаточно коротким временем выделенным на выполнение задания, вначале использовались уже преобученые модели. 
 
 ## DataCollention: 
 
 [все модели загруженны на HuggingFace]
 
-
-Pretrained NER model: "Davlan/distilbert-base-multilingual-cased-ner-hrl"
-
-
-Pretrained SST model: "cointegrated/rubert-tiny-sentiment-balanced" 
+- Pretrained NER model: "Davlan/distilbert-base-multilingual-cased-ner-hrl"
+- Pretrained SST model: "cointegrated/rubert-tiny-sentiment-balanced" 
 
 ## Inference: 
 
 [все модели загруженны на HuggingFace]
 
-Pretrained NER model: "Davlan/distilbert-base-multilingual-cased-ner-hrl"
-
-
-SST model (custom trained): "doublecringe123/lenta-ru-sentiments"
+- Pretrained NER model: "Davlan/distilbert-base-multilingual-cased-ner-hrl"
+- SST model (custom trained): "doublecringe123/lenta-ru-sentiments"
