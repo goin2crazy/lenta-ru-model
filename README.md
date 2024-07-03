@@ -1,5 +1,8 @@
 ### Решение команды HackLadies от специалиста по машинному обучению goin2crazy
 
+- [Original Data COllection code on kaggle](https://www.kaggle.com/code/yannchikk/lenta-ru-datasetcollection)
+- [Original Model Training code on kaggle](https://www.kaggle.com/code/yannchikk/lenta-ru-training-model)
+
 # Данные
 
 В начале работы с проектом было обнаружено, что в отличие от данных для проектов компьютерного зрения, данные для проекта по обработке естественного языка не содержат в себе результатов для полноценного обучения модели, что нарушает концепцию supervised-learning, на которой построена большая часть мира глубокого обучения.
