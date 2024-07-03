@@ -64,3 +64,39 @@
 4. **Гибкость и адаптивность**: Модель может легко адаптироваться к различным языковым и культурным контекстам благодаря использованию мультиязыковых моделей и продуманной разметке данных.
 
 5. **Улучшение качества анализа текста**: Фокусирование модели на отдельных именах и организациях обеспечивает более точный и детализированный анализ настроения текста.
+
+# Архитектура и стек технологий 
+
+Для этого проекта использовались библиотеки 
+Software:
+
+- pandas
+- numpy
+- pytorch
+- transformers
+- datasets
+- evaluate
+
+# 
+
+Окружения
+Hardware: 
+
+- CPU (kaggle notebook)
+- GPU A100 (kaggle notebook)
+
+# 
+
+Для этого проекта пал на легкие быстрые модели, в связи с достаточно коротким временем выделенным на выполнение задания, вначале использовались уже преобученые модели. 
+
+## DataCollention: 
+
+[все модели загруженны на HuggingFace]
+Pretrained NER model: "Davlan/distilbert-base-multilingual-cased-ner-hrl"
+Pretrained SST model: "cointegrated/rubert-tiny-sentiment-balanced" 
+
+## Inference: 
+
+[все модели загруженны на HuggingFace]
+Pretrained NER model: "Davlan/distilbert-base-multilingual-cased-ner-hrl"
+SST model (custom trained): "doublecringe123/lenta-ru-sentiments"
